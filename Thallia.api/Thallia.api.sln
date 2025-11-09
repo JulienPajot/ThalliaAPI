@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thallia.api", "Thallia.api.csproj", "{C808A4EA-6FF8-4259-851F-1FFEC836BC83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C808A4EA-6FF8-4259-851F-1FFEC836BC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C808A4EA-6FF8-4259-851F-1FFEC836BC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C808A4EA-6FF8-4259-851F-1FFEC836BC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C808A4EA-6FF8-4259-851F-1FFEC836BC83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49AC0EC9-B6BF-4136-9FD1-17357A75CBF7}
+	EndGlobalSection
+EndGlobal

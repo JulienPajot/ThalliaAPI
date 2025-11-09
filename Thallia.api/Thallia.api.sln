@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36202.13 d17.14
+VisualStudioVersion = 17.14.36202.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thallia.api", "Thallia.api.csproj", "{C808A4EA-6FF8-4259-851F-1FFEC836BC83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thallia.api", "Thallia.api\Thallia.api.csproj", "{78C8E247-105E-F6D9-2178-B4D9588AF2A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C808A4EA-6FF8-4259-851F-1FFEC836BC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C808A4EA-6FF8-4259-851F-1FFEC836BC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C808A4EA-6FF8-4259-851F-1FFEC836BC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C808A4EA-6FF8-4259-851F-1FFEC836BC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C8E247-105E-F6D9-2178-B4D9588AF2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C8E247-105E-F6D9-2178-B4D9588AF2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C8E247-105E-F6D9-2178-B4D9588AF2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C8E247-105E-F6D9-2178-B4D9588AF2A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

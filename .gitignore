@@ -1,12 +1,12 @@
 # Visual Studio cache
+Thallia.api/Thallia.api/.vs/
 Thallia.api/.vs/
-
 # Dossiers de build
-Thallia.api/bin/
-Thallia.api/obj/
+Thallia.api/Thallia.api/bin/
+Thallia.api/Thallia.api/obj/
 
 # Fichiers de configuration sensibles
-Thallia.api/*.env
-Thallia.api/appsettings.*.json
+Thallia.api/Thallia.api/*.env
+Thallia.api/Thallia.api/appsettings.*.json
 
 

@@ -5,6 +5,12 @@ VisualStudioVersion = 17.14.36202.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thallia.api", "Thallia.api\Thallia.api.csproj", "{78C8E247-105E-F6D9-2178-B4D9588AF2A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thallia.Infrastructure", "Thallia.Infrastructure\Thallia.Infrastructure.csproj", "{AA65386E-27F9-4C23-B50B-2619AFA2D99D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thallia.Service", "Thallia.Service\Thallia.Service.csproj", "{33BF75BE-4DCF-4386-BC93-964387D1F51C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thallia.Test", "Thallia.Test\Thallia.Test.csproj", "{5BC7B6BF-4FA2-4E82-A075-9909D30B5861}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{78C8E247-105E-F6D9-2178-B4D9588AF2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78C8E247-105E-F6D9-2178-B4D9588AF2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78C8E247-105E-F6D9-2178-B4D9588AF2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA65386E-27F9-4C23-B50B-2619AFA2D99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA65386E-27F9-4C23-B50B-2619AFA2D99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA65386E-27F9-4C23-B50B-2619AFA2D99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA65386E-27F9-4C23-B50B-2619AFA2D99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33BF75BE-4DCF-4386-BC93-964387D1F51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BF75BE-4DCF-4386-BC93-964387D1F51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BF75BE-4DCF-4386-BC93-964387D1F51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BF75BE-4DCF-4386-BC93-964387D1F51C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC7B6BF-4FA2-4E82-A075-9909D30B5861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC7B6BF-4FA2-4E82-A075-9909D30B5861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC7B6BF-4FA2-4E82-A075-9909D30B5861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC7B6BF-4FA2-4E82-A075-9909D30B5861}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
